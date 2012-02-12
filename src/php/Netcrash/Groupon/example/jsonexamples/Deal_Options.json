@@ -1,0 +1,40 @@
+{
+
+    "isLimitedQuantity": true,
+    "maximumPurchaseQuantity": 1,
+    "discount": {
+        "currencyCode": "USD",
+        "formattedAmount": "$16.00",
+        "amount": 1600
+    },
+    "customFields": [ ],
+    "externalUrl": null,
+    "value": {
+        "currencyCode": "USD",
+        "formattedAmount": "$30.00",
+        "amount": 3000
+    },
+    "soldQuantityMessage": "150+",
+    "buyUrl": "https://www.groupon.com/deals/gg-original-slanket/confirmation?pledge_id=1961672",
+    "isSoldOut": false,
+    "title": "1 Original Slanket: Limoges Blue (a $30 value)",
+    "redemptionLocations": [ ],
+    "details": [
+        {
+            "description": "Limit 1 per person. <a href=\"http://gr.pn/hqEozV\">Must provide name and shipping address at checkout, which will be provided along with your Groupon login email to The Slanket to facilitate shipping.</a> Valid only for option purchased. Online only. Any return must occur within 14 days of receiving goods. <b>Ships within the contiguous U.S. only.</b> Extra $5 fee for shipping. Does not ship to PO boxes. Ships out in 7-10 business days from purchase date. Goods sold by Groupon Goods."
+        }
+    ],
+    "expiresAt": "2012-02-14T05:59:59Z",
+    "discountPercent": 53,
+    "price": {
+        "currencyCode": "USD",
+        "formattedAmount": "$14.00",
+        "amount": 1400
+    },
+    "initialQuantity": 0,
+    "remainingQuantity": 0,
+    "soldQuantity": 150,
+    "id": 1961672,
+    "minimumPurchaseQuantity": 1
+
+}

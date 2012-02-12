@@ -1,0 +1,386 @@
+{
+
+    "deal": {
+        "type": "groupon",
+        "shippingAddressRequired": true,
+        "isNowDeal": false,
+        "division": {
+            "timezoneOffsetInSeconds": -21600,
+            "lng": -99.7331,
+            "name": "Abilene, TX",
+            "id": "abilene",
+            "lat": 32.4487,
+            "timezone": "Central Time (US & Canada)"
+        },
+        "mediumImageUrl": "https://secure-assets.grouponcdn.com/images/site_images/1987/0665/The-Slanket-2_profile.jpg",
+        "soldQuantity": 1000,
+        "locationNote": "",
+        "textAd": {
+            "headline": "",
+            "line1": "",
+            "line2": ""
+        },
+        "status": "open",
+        "startAt": "2012-02-06T06:01:21Z",
+        "isSoldOut": false,
+        "sidebarImageUrl": "https://secure-assets.grouponcdn.com/images/site_images/1987/0665/The-Slanket-2_sidebar.jpg",
+        "soldQuantityMessage": "1000+",
+        "finePrint": "Limit 1 per person. <a href=\"http://gr.pn/hqEozV\">Must provide name and shipping address at checkout, which will be provided along with your Groupon login email to The Slanket to facilitate shipping.</a> Valid only for option purchased. Online only. Any return must occur within 14 days of receiving goods. <b>Ships within the contiguous U.S. only.</b> Extra $5 fee for shipping. Does not ship to PO boxes. Ships out in 7-10 business days from purchase date. Goods sold by Groupon Goods.",
+        "tippingPoint": 1,
+        "isTipped": true,
+        "endAt": "2012-02-14T05:59:59Z",
+        "smallImageUrl": "https://secure-assets.grouponcdn.com/images/site_images/1987/0665/The-Slanket-2_square.jpg",
+        "grouponRating": null,
+        "grid4ImageUrl": "https://secure-assets.grouponcdn.com/images/site_images/1987/0665/The-Slanket-2_grid_4.jpg",
+        "tippedAt": "2012-02-06T06:05:29Z",
+        "pitchHtml": "<h4><strong>What You Get</strong></h4>\n\n<ul>\n<li>For $14, you get an Original Slanket (a $29.99 value). Choose from the following colors:\n<ul>\n<li><a href=\"http://gr.pn/x9MafK\">Limoges blue</a></li>\n<li><a href=\"http://gr.pn/A5DgcQ\">Moss green</a></li>\n<li><a href=\"http://gr.pn/xoLIFI\">Chocolate</a></li>\n<li><a href=\"http://gr.pn/zM23tq\">Alaskan blue</a></li>\n<li><a href=\"http://gr.pn/wYe8w5\">Princess armour pink</a></li>\n<li><a href=\"http://gr.pn/zskzmR\">Magenta</a></li>\n<li><a href=\"http://gr.pn/x37n1p\">Turquoise</a></li>\n<li><a href=\"http://gr.pn/zyfeqD\">First light yellow</a></li>\n</ul></li>\n<li>An additional $5 shipping fee will be charged at checkout for each option.</li>\n</ul>\n\n<p><p><em>Orders fulfilled by <a href=\"http://www.theslanket.com/\">Slanket</a>. Visit the <a href=\"http://www.groupon.com/pages/goods-faq\">Groupon Goods FAQ</a> for more info.</em></p>\n\n<p><p><hr></p>\n\n<h4><strong>Overview</strong></h4>\n\n<p>Featured on <a href=\"http://gr.pn/z415nD\">media powerhouses</a> such as <em>Today</em> and <em>30 Rock</em> and embraced by <a href=\"http://gr.pn/y93eZc\">celebrities</a> such as Samuel L. Jackson, the Original Slanket keeps wearers warm and dexterous with 100% polyester microfiber fleece. Each super-soft swaddler features two giant, loose-fitting sleeves that leave arms able to pick up books, remote controls, and the drooping chins of Slanket-less friends. Designed for frequent use, the Original Slanket returns to factory-born brilliance after a spin in any standard washing machine.</p>\n\n<p><p><hr></p>\n\n<h4><strong>Features</strong></h4>\n\n<ul>\n<li>60\"x95\" fleece blanket with sleeves</li>\n<li>100% polyester microfibers</li>\n<li>Non-pilling, machine-washable material</li>\n<li>Functional design endorsed by leisurely wizards</li>\n<li><a href=\"http://gr.pn/yiYyiz\">Click here for additional information</a><p></li>\n</ul>\n\n<p><p><hr></p>\n\n<h4><strong>How to Get Your Goods</strong></h4>\n\n<p><b>Step 1.</b><br>\nPurchase your Groupon using the buy button on this page.</p>\n\n<p><b>Step 2.</b><br>\nNo need to do anything else! By purchasing this Groupon and providing your name and shipping address, you've completed the order for your Original Slanket and it should ship within 7-10 business days.</p>\n\n<p><b>Step 3.</b><br>\nEnjoy!<p></p>",
+        "channels": [
+            {
+                "name": "Goods",
+                "id": "goods"
+            }
+        ],
+        "announcementTitle": "$14 for an Original Slanket",
+        "tags": [
+            {
+                "name": "Shopping"
+            },
+            {
+                "name": "Accessories"
+            }
+        ],
+        "highlightsHtml": "<p>Flowing fleece blanket with loose-fitting sleeves lets wearers maintain full use of their hands while lounging</p>",
+        "grid6ImageUrl": "https://secure-assets.grouponcdn.com/images/site_images/1987/0665/The-Slanket-2_grid_6.jpg",
+        "title": "$14 for an Original Slanket ($29.99 Value). Eight Colors Available.",
+        "placementPriority": "nearby",
+        "options": [
+            {
+                "isLimitedQuantity": true,
+                "soldQuantity": 190,
+                "customFields": [ ],
+                "initialQuantity": 0,
+                "isSoldOut": false,
+                "expiresAt": "2012-02-14T05:59:59Z",
+                "soldQuantityMessage": "190+",
+                "buyUrl": "https://www.groupon.com/deals/gg-original-slanket/confirmation?pledge_id=1961672",
+                "remainingQuantity": 0,
+                "value": {
+                    "amount": 3000,
+                    "currencyCode": "USD",
+                    "formattedAmount": "$30.00"
+                },
+                "price": {
+                    "amount": 1400,
+                    "currencyCode": "USD",
+                    "formattedAmount": "$14.00"
+                },
+                "minimumPurchaseQuantity": 1,
+                "discount": {
+                    "amount": 1600,
+                    "currencyCode": "USD",
+                    "formattedAmount": "$16.00"
+                },
+                "details": [
+                    {
+                        "description": "Limit 1 per person. <a href=\"http://gr.pn/hqEozV\">Must provide name and shipping address at checkout, which will be provided along with your Groupon login email to The Slanket to facilitate shipping.</a> Valid only for option purchased. Online only. Any return must occur within 14 days of receiving goods. <b>Ships within the contiguous U.S. only.</b> Extra $5 fee for shipping. Does not ship to PO boxes. Ships out in 7-10 business days from purchase date. Goods sold by Groupon Goods."
+                    }
+                ],
+                "maximumPurchaseQuantity": 1,
+                "title": "1 Original Slanket: Limoges Blue (a $30 value)",
+                "externalUrl": null,
+                "discountPercent": 53,
+                "id": 1961672,
+                "redemptionLocations": [ ]
+            },
+            {
+                "isLimitedQuantity": true,
+                "soldQuantity": 200,
+                "customFields": [ ],
+                "initialQuantity": 0,
+                "isSoldOut": false,
+                "expiresAt": "2012-02-14T05:59:59Z",
+                "soldQuantityMessage": "200+",
+                "buyUrl": "https://www.groupon.com/deals/gg-original-slanket/confirmation?pledge_id=1961673",
+                "remainingQuantity": 0,
+                "value": {
+                    "amount": 3000,
+                    "currencyCode": "USD",
+                    "formattedAmount": "$30.00"
+                },
+                "price": {
+                    "amount": 1400,
+                    "currencyCode": "USD",
+                    "formattedAmount": "$14.00"
+                },
+                "minimumPurchaseQuantity": 1,
+                "discount": {
+                    "amount": 1600,
+                    "currencyCode": "USD",
+                    "formattedAmount": "$16.00"
+                },
+                "details": [
+                    {
+                        "description": "Limit 1 per person. <a href=\"http://gr.pn/hqEozV\">Must provide name and shipping address at checkout, which will be provided along with your Groupon login email to The Slanket to facilitate shipping.</a> Valid only for option purchased. Online only. Any return must occur within 14 days of receiving goods. <b>Ships within the contiguous U.S. only.</b> Extra $5 fee for shipping. Does not ship to PO boxes. Ships out in 7-10 business days from purchase date. Goods sold by Groupon Goods."
+                    }
+                ],
+                "maximumPurchaseQuantity": 1,
+                "title": "1 Original Slanket: Moss Green (a $30 value)",
+                "externalUrl": null,
+                "discountPercent": 53,
+                "id": 1961673,
+                "redemptionLocations": [ ]
+            },
+            {
+                "isLimitedQuantity": true,
+                "soldQuantity": 370,
+                "customFields": [ ],
+                "initialQuantity": 0,
+                "isSoldOut": false,
+                "expiresAt": "2012-02-14T05:59:59Z",
+                "soldQuantityMessage": "370+",
+                "buyUrl": "https://www.groupon.com/deals/gg-original-slanket/confirmation?pledge_id=1961674",
+                "remainingQuantity": 0,
+                "value": {
+                    "amount": 3000,
+                    "currencyCode": "USD",
+                    "formattedAmount": "$30.00"
+                },
+                "price": {
+                    "amount": 1400,
+                    "currencyCode": "USD",
+                    "formattedAmount": "$14.00"
+                },
+                "minimumPurchaseQuantity": 1,
+                "discount": {
+                    "amount": 1600,
+                    "currencyCode": "USD",
+                    "formattedAmount": "$16.00"
+                },
+                "details": [
+                    {
+                        "description": "Limit 1 per person. <a href=\"http://gr.pn/hqEozV\">Must provide name and shipping address at checkout, which will be provided along with your Groupon login email to The Slanket to facilitate shipping.</a> Valid only for option purchased. Online only. Any return must occur within 14 days of receiving goods. <b>Ships within the contiguous U.S. only.</b> Extra $5 fee for shipping. Does not ship to PO boxes. Ships out in 7-10 business days from purchase date. Goods sold by Groupon Goods."
+                    }
+                ],
+                "maximumPurchaseQuantity": 1,
+                "title": "1 Original Slanket: Chocolate (a $30 value)",
+                "externalUrl": null,
+                "discountPercent": 53,
+                "id": 1961674,
+                "redemptionLocations": [ ]
+            },
+            {
+                "isLimitedQuantity": true,
+                "soldQuantity": 120,
+                "customFields": [ ],
+                "initialQuantity": 0,
+                "isSoldOut": false,
+                "expiresAt": "2012-02-14T05:59:59Z",
+                "soldQuantityMessage": "120+",
+                "buyUrl": "https://www.groupon.com/deals/gg-original-slanket/confirmation?pledge_id=1961675",
+                "remainingQuantity": 0,
+                "value": {
+                    "amount": 3000,
+                    "currencyCode": "USD",
+                    "formattedAmount": "$30.00"
+                },
+                "price": {
+                    "amount": 1400,
+                    "currencyCode": "USD",
+                    "formattedAmount": "$14.00"
+                },
+                "minimumPurchaseQuantity": 1,
+                "discount": {
+                    "amount": 1600,
+                    "currencyCode": "USD",
+                    "formattedAmount": "$16.00"
+                },
+                "details": [
+                    {
+                        "description": "Limit 1 per person. <a href=\"http://gr.pn/hqEozV\">Must provide name and shipping address at checkout, which will be provided along with your Groupon login email to The Slanket to facilitate shipping.</a> Valid only for option purchased. Online only. Any return must occur within 14 days of receiving goods. <b>Ships within the contiguous U.S. only.</b> Extra $5 fee for shipping. Does not ship to PO boxes. Ships out in 7-10 business days from purchase date. Goods sold by Groupon Goods."
+                    }
+                ],
+                "maximumPurchaseQuantity": 1,
+                "title": "1 Original Slanket: Alaskan Blue (a $30 value)",
+                "externalUrl": null,
+                "discountPercent": 53,
+                "id": 1961675,
+                "redemptionLocations": [ ]
+            },
+            {
+                "isLimitedQuantity": true,
+                "soldQuantity": 100,
+                "customFields": [ ],
+                "initialQuantity": 0,
+                "isSoldOut": false,
+                "expiresAt": "2012-02-14T05:59:59Z",
+                "soldQuantityMessage": "100+",
+                "buyUrl": "https://www.groupon.com/deals/gg-original-slanket/confirmation?pledge_id=1961676",
+                "remainingQuantity": 0,
+                "value": {
+                    "amount": 3000,
+                    "currencyCode": "USD",
+                    "formattedAmount": "$30.00"
+                },
+                "price": {
+                    "amount": 1400,
+                    "currencyCode": "USD",
+                    "formattedAmount": "$14.00"
+                },
+                "minimumPurchaseQuantity": 1,
+                "discount": {
+                    "amount": 1600,
+                    "currencyCode": "USD",
+                    "formattedAmount": "$16.00"
+                },
+                "details": [
+                    {
+                        "description": "Limit 1 per person. <a href=\"http://gr.pn/hqEozV\">Must provide name and shipping address at checkout, which will be provided along with your Groupon login email to The Slanket to facilitate shipping.</a> Valid only for option purchased. Online only. Any return must occur within 14 days of receiving goods. <b>Ships within the contiguous U.S. only.</b> Extra $5 fee for shipping. Does not ship to PO boxes. Ships out in 7-10 business days from purchase date. Goods sold by Groupon Goods."
+                    }
+                ],
+                "maximumPurchaseQuantity": 1,
+                "title": "1 Original Slanket: Princess Armour Pink (a $30 value)",
+                "externalUrl": null,
+                "discountPercent": 53,
+                "id": 1961676,
+                "redemptionLocations": [ ]
+            },
+            {
+                "isLimitedQuantity": true,
+                "soldQuantity": 80,
+                "customFields": [ ],
+                "initialQuantity": 0,
+                "isSoldOut": false,
+                "expiresAt": "2012-02-14T05:59:59Z",
+                "soldQuantityMessage": "80+",
+                "buyUrl": "https://www.groupon.com/deals/gg-original-slanket/confirmation?pledge_id=1961677",
+                "remainingQuantity": 0,
+                "value": {
+                    "amount": 3000,
+                    "currencyCode": "USD",
+                    "formattedAmount": "$30.00"
+                },
+                "price": {
+                    "amount": 1400,
+                    "currencyCode": "USD",
+                    "formattedAmount": "$14.00"
+                },
+                "minimumPurchaseQuantity": 1,
+                "discount": {
+                    "amount": 1600,
+                    "currencyCode": "USD",
+                    "formattedAmount": "$16.00"
+                },
+                "details": [
+                    {
+                        "description": "Limit 1 per person. <a href=\"http://gr.pn/hqEozV\">Must provide name and shipping address at checkout, which will be provided along with your Groupon login email to The Slanket to facilitate shipping.</a> Valid only for option purchased. Online only. Any return must occur within 14 days of receiving goods. <b>Ships within the contiguous U.S. only.</b> Extra $5 fee for shipping. Does not ship to PO boxes. Ships out in 7-10 business days from purchase date. Goods sold by Groupon Goods."
+                    }
+                ],
+                "maximumPurchaseQuantity": 1,
+                "title": "1 Original Slanket: Magenta (a $30 value)",
+                "externalUrl": null,
+                "discountPercent": 53,
+                "id": 1961677,
+                "redemptionLocations": [ ]
+            },
+            {
+                "isLimitedQuantity": true,
+                "soldQuantity": 90,
+                "customFields": [ ],
+                "initialQuantity": 0,
+                "isSoldOut": false,
+                "expiresAt": "2012-02-14T05:59:59Z",
+                "soldQuantityMessage": "90+",
+                "buyUrl": "https://www.groupon.com/deals/gg-original-slanket/confirmation?pledge_id=1961678",
+                "remainingQuantity": 0,
+                "value": {
+                    "amount": 3000,
+                    "currencyCode": "USD",
+                    "formattedAmount": "$30.00"
+                },
+                "price": {
+                    "amount": 1400,
+                    "currencyCode": "USD",
+                    "formattedAmount": "$14.00"
+                },
+                "minimumPurchaseQuantity": 1,
+                "discount": {
+                    "amount": 1600,
+                    "currencyCode": "USD",
+                    "formattedAmount": "$16.00"
+                },
+                "details": [
+                    {
+                        "description": "Limit 1 per person. <a href=\"http://gr.pn/hqEozV\">Must provide name and shipping address at checkout, which will be provided along with your Groupon login email to The Slanket to facilitate shipping.</a> Valid only for option purchased. Online only. Any return must occur within 14 days of receiving goods. <b>Ships within the contiguous U.S. only.</b> Extra $5 fee for shipping. Does not ship to PO boxes. Ships out in 7-10 business days from purchase date. Goods sold by Groupon Goods."
+                    }
+                ],
+                "maximumPurchaseQuantity": 1,
+                "title": "1 Original Slanket: Turquoise (a $30 value)",
+                "externalUrl": null,
+                "discountPercent": 53,
+                "id": 1961678,
+                "redemptionLocations": [ ]
+            },
+            {
+                "isLimitedQuantity": true,
+                "soldQuantity": 50,
+                "customFields": [ ],
+                "initialQuantity": 0,
+                "isSoldOut": false,
+                "expiresAt": "2012-02-14T05:59:59Z",
+                "soldQuantityMessage": "50+",
+                "buyUrl": "https://www.groupon.com/deals/gg-original-slanket/confirmation?pledge_id=1961679",
+                "remainingQuantity": 0,
+                "value": {
+                    "amount": 3000,
+                    "currencyCode": "USD",
+                    "formattedAmount": "$30.00"
+                },
+                "price": {
+                    "amount": 1400,
+                    "currencyCode": "USD",
+                    "formattedAmount": "$14.00"
+                },
+                "minimumPurchaseQuantity": 1,
+                "discount": {
+                    "amount": 1600,
+                    "currencyCode": "USD",
+                    "formattedAmount": "$16.00"
+                },
+                "details": [
+                    {
+                        "description": "Limit 1 per person. <a href=\"http://gr.pn/hqEozV\">Must provide name and shipping address at checkout, which will be provided along with your Groupon login email to The Slanket to facilitate shipping.</a> Valid only for option purchased. Online only. Any return must occur within 14 days of receiving goods. <b>Ships within the contiguous U.S. only.</b> Extra $5 fee for shipping. Does not ship to PO boxes. Ships out in 7-10 business days from purchase date. Goods sold by Groupon Goods."
+                    }
+                ],
+                "maximumPurchaseQuantity": 1,
+                "title": "1 Original Slanket: First Light Yellow (a $30 value)",
+                "externalUrl": null,
+                "discountPercent": 53,
+                "id": 1961679,
+                "redemptionLocations": [ ]
+            }
+        ],
+        "dealTypes": [ ],
+        "areas": [ ],
+        "vip": false,
+        "says": {
+            "emailContent": "Are all curses actually just remedies for hubris?",
+            "websiteContentHtml": "<p>Whether you're feeling so low that you're down in the dumps or feeling so sensational that you're up in the dumps, you'll feel better after repeating a motivational mantra to yourself. Seek success with these proven maxims:</p>\n\n<p>&bull; \"Go for the gold!\"<br />\n&bull; \"Live your best life!\"<br />\n&bull; \"Is that gold from earlier making, like, a 'whirring' noise?\"<br />\n&bull; \"Be the change you want to see!\"<br />\n&bull; \"Dang! That gold is hot to the touch … just like <em>I</em> should be.\"<br />\n&bull; \"Everyone who looks at the gold starts bleeding. We have to get rid of it.\"<br />\n&bull; \"The pawn-shop owner's dog hissed at the gold and when the owner screamed at us, I noticed his mouth had 100 teeth in it.\"<br />\n&bull; \"I told the police, 'The gold burned down my house! It was the gold!' but they wouldn't listen!\"<br />\n&bull; \"Is this what you wanted, gold? To see me reduced to nothing?\"<br />\n&bull; \"I buried the gold in cement at a construction zone, but didn't notice the sign reading 'Future Site of The Center for Hubris Studies.'\" </br>\n&bull; \"Settle for silver.\" </p>",
+            "emailContentHtml": "<p>Are all curses actually just remedies for hubris?</p>",
+            "title": "The Groupon Guide to: Motivational Mottos",
+            "id": "groupon-says-66331378",
+            "websiteContent": "Whether you're feeling so low that you're down in the dumps or feeling so sensational that you're up in the dumps, you'll feel better after repeating a motivational mantra to yourself. Seek success with these proven maxims:\n\n&bull; \"Go for the gold!\" \n&bull; \"Live your best life!\" \n&bull; \"Is that gold from earlier making, like, a 'whirring' noise?\" \n&bull; \"Be the change you want to see!\" \n&bull; \"Dang! That gold is hot to the touch … just like _I_ should be.\" \n&bull; \"Everyone who looks at the gold starts bleeding. We have to get rid of it.\" \n&bull; \"The pawn-shop owner's dog hissed at the gold and when the owner screamed at us, I noticed his mouth had 100 teeth in it.\" \n&bull; \"I told the police, 'The gold burned down my house! It was the gold!' but they wouldn't listen!\" \n&bull; \"Is this what you wanted, gold? To see me reduced to nothing?\" \n&bull; \"I buried the gold in cement at a construction zone, but didn't notice the sign reading 'Future Site of The Center for Hubris Studies.'\" </br>\n&bull; \"Settle for silver.\" "
+        },
+        "isAutoRefundEnabled": false,
+        "largeImageUrl": "https://secure-assets.grouponcdn.com/images/site_images/1987/0665/The-Slanket-2_medium.jpg",
+        "id": "gg-original-slanket",
+        "redemptionLocation": "Online",
+        "merchant": {
+            "websiteUrl": "http://www.theslanket.com/",
+            "name": "The Original Slanket",
+            "ratings": [ ],
+            "id": "the-slanket"
+        },
+        "dealUrl": "http://www.groupon.com/deals/gg-original-slanket"
+    }
+
+}

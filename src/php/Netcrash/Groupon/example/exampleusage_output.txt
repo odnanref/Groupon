@@ -1,0 +1,204 @@
+Getting list of divisions:
+1abbotsford
+abilene
+akron-canton
+albany-capital-region
+albuquerque
+allentown-reading
+amarillo
+anchorage
+ann-arbor
+asheville
+athens-ga
+atlanta
+augusta
+austin
+bakersfield
+baltimore
+barrie
+baton-rouge
+beaumont
+billings
+birmingham
+bloomington-in
+boise
+boston
+buffalo
+calgary
+cape-breton
+cedar-rapids-iowa-city
+central-jersey
+charleston
+charlotte
+chattanooga
+chicago
+cincinnati
+cleveland
+colorado-springs
+columbia
+columbia-mo
+columbus
+columbus-ga
+corpus-christi
+dallas
+dayton
+daytona-beach
+denver
+des-moines
+detroit
+edmonton
+el-paso
+erie
+eugene
+evansville
+fairfield-county
+fort-lauderdale
+fort-myers-cape-coral
+fort-wayne
+fort-worth
+appleton
+fresno
+gainesville
+grand-rapids
+green-bay
+greenville
+halifax
+hampton-roads
+harrisburg
+hartford
+honolulu
+houston
+huntsville
+indianapolis
+inland-empire
+jackson
+jacksonville
+kalamazoo
+kansas-city
+kelowna
+kingston
+kitchener-waterloo
+knoxville
+lakeland
+lansing
+las-vegas
+lexington
+lincoln
+little-rock
+london
+long-island
+los-angeles
+louisville
+lubbock
+macon
+madison
+memphis
+miami
+midland-odessa
+milwaukee
+minneapolis-stpaul
+mobile-baldwin-county
+modesto
+montgomery
+napa-sonoma
+naples
+nashville
+new-orleans
+new-york
+north-jersey
+ocala
+ogden
+oklahoma-city
+omaha
+orange-county
+orlando
+ottawa
+palm-beach
+pensacola
+philadelphia
+phoenix
+piedmont-triad
+pittsburgh
+portland
+portland-me
+providence
+raleigh-durham
+regina
+reno
+richmond
+rio-grande-valley
+roanoke
+rochester
+rockford
+sacramento
+salem-or
+salt-lake-city
+san-angelo
+san-antonio
+san-diego
+san-francisco
+san-jose
+santa-barbara
+santa-clarita
+santa-cruz
+saskatoon
+savannah-hilton-head
+seattle
+shreveport-bossier
+sioux-falls
+south-bend
+albany-ga
+spokane-coeur-dalene
+springfield-mo
+springfield-ma
+stcatharines-niagara
+st-johns
+stlouis
+stockton
+sudbury
+syracuse
+tallahassee
+tampa-bay-area
+toledo
+topeka-lawrence
+greater-toronto-area
+tucson
+tulsa
+vancouver
+ventura-county
+victoria
+washington-dc
+westchester-county
+wichita
+wilmington-newark
+windsor
+winnipeg
+worcester
+youngstown
+GETTING DEALS
+2http://api.groupon.com/v2/deals.json?division_id=youngstown&client_id=c83fb1f99f0b2c78b4e84d49185aa13e25c7c5d3&lat=41&lng=-8
+emealz-youngstown Available! 
+zazzle-youngstown-4 Available! 
+gg-memory-foam-mattress Available! 
+gg-assorted-wine Available! 
+gg-v-touch-pro Available! 
+get-mad-auto-detailing-youngstown Available! 
+ga-m-barton-hill-hotel Available! 
+ga-m-the-lodge-at-geneva-ridge Available! 
+ga-m-gaia-shasta-hotel Available! 
+dc-ghd-mm-midwest-hydroponic Available! 
+dc-ghd-gg-remote-helicopter-estescox Available! 
+dc-ghd-gg-kelty-star-gazer Available! 
+DETAIL
+3$14 for an Original Slanket ($29.99 Value). Eight Colors Available., gg-original-slanket -- 1000
+list of details:
+gg-original-slanket <- 53
+gg-original-slanket <- 53
+gg-original-slanket <- 53
+gg-original-slanket <- 53
+gg-original-slanket <- 53
+gg-original-slanket <- 53
+gg-original-slanket <- 53
+gg-original-slanket <- 53
+http://api.groupon.com/v2/deals/dc-ghd-gg-kelty-star-gazer.json?division_id=youngstown&client_id=c83fb1f99f0b2c78b4e84d49185aa13e25c7c5d3&lat=41&lng=-8
+

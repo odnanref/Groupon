@@ -1,0 +1,26 @@
+array(11) {
+  ["lng"]=>
+  float(-122.285)
+  ["lat"]=>
+  float(49.0568)
+  ["isRewardEnabled"]=>
+  bool(false)
+  ["timezone"]=>
+  string(26) "Pacific Time (US & Canada)"
+  ["isNowMerchantEnabled"]=>
+  bool(false)
+  ["name"]=>
+  string(10) "Abbotsford"
+  ["id"]=>
+  string(10) "abbotsford"
+  ["areas"]=>
+  array(0) {
+  }
+  ["isNowCustomerEnabled"]=>
+  bool(false)
+  ["timezoneOffsetInSeconds"]=>
+  int(-28800)
+  ["country"]=>
+  string(6) "Canada"
+}
+

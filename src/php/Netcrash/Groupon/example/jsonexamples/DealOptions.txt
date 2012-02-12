@@ -1,0 +1,23 @@
+{
+
+    "isLimitedQuantity": true,
+    "maximumPurchaseQuantity": 1,
+    "discount": ,
+    "customFields": [ ],
+    "externalUrl": null,
+    "value": ,
+    "soldQuantityMessage": "40+",
+    "buyUrl": "https://www.groupon.com/deals/gg-original-slanket/confirmation?pledge_id=1961679",
+    "isSoldOut": false,
+    "title": "1 Original Slanket: First Light Yellow (a $30 value)",
+    "redemptionLocations": [ ],
+    "details": ,
+    "expiresAt": "2012-02-14T05:59:59Z",
+    "discountPercent": 53,
+    "price":,
+    "initialQuantity": 0,
+    "remainingQuantity": 0,
+    "soldQuantity": 40,
+    "id": 1961679,
+    "minimumPurchaseQuantity": 1
+}
